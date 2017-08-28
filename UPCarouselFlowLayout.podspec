@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "https://github.com/ink-spot/UPCarouselFlowLayout/raw/master/images/demo.gif"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Paul Ulric' => 'ink.and.spot@gmail.com' }
-  s.source           = { :git => 'https://github.com/ink-spot/UPCarouselFlowLayout.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/abubalanandan/UPCarouselFlowLayout.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.1'
 
